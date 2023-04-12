@@ -1,8 +1,8 @@
 const Link = {
   baseStyle: (props) => ({
-    color: "blue.500",
+    color: "green.500",
     _hover: {
-      color: "blue.600",
+      color: "green.600",
     },
   }),
 };

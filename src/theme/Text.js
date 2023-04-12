@@ -2,11 +2,11 @@ import { mode } from "@chakra-ui/theme-tools";
 
 const Text = {
   baseStyle: (props) => ({
-    color: mode("rgb(34,34,34)", "white")(props),
+    color: mode("#98FF98", "white")(props),
   }),
   variants: {
     link: (props) => ({
-      color: mode("#08BDD4", "#08BDD4")(props),
+      color: mode("#98FF98", "#98FF98")(props),
       fontWeight: "bold",
       cursor: "pointer",
     }),

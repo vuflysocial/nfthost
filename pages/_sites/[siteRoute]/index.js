@@ -208,7 +208,7 @@ const UserWebsite = (props) => {
                     fontFamily="inter"
                     fontSize="20pt"
                   >
-                    NFT Host
+                   Melo NFT Host
                   </Heading>
                 </HStack>
               </NextLink>

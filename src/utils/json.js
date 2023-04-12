@@ -129,6 +129,23 @@ export const metadataStandardsArr = [
     ],
   },
   {
+    name: "Binance",
+    image: "/assets/ethereum.png",
+    components: [
+      "size",
+      "name",
+      "symbol",
+      "description",
+      "image",
+      "external_url",
+      "attributes",
+      "background_color",
+      "animation_url",
+      "youtube_url",
+      "compiler",
+    ],
+  },
+  {
     name: "Solana",
     image: "/assets/solana.png",
     components: [

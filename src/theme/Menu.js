@@ -3,12 +3,12 @@ import { mode } from "@chakra-ui/theme-tools";
 const Menu = {
   baseStyle: (props) => ({
     list: {
-      bgColor: mode("white", "rgb(46,40,76)")(props),
+      bgColor: mode("white", "#98FF98")(props),
     },
     item: {
-      bgColor: mode("white", "rgb(46,40,76)")(props),
+      bgColor: mode("white", "#98FF98")(props),
       _hover: {
-        bgColor: mode("gray.200", "#753FE5")(props),
+        bgColor: mode("gray.200", "#98FF98")(props),
       },
     },
   }),

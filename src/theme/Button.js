@@ -16,7 +16,7 @@ const Button = {
   },
   variants: {
     main: (props) => ({
-      bg: mode("rgb(20,20,20)", "#08BDD4")(props),
+      bg: mode("rgb(20,20,20)", "#98FF98")(props),
       color: mode("white", "black")(props),
     }),
     primary: (props) => ({

@@ -41,7 +41,7 @@ const Navbar = ({ isLanding, isColorMode, isSocial }) => {
         <HStack spacing=".5em" cursor="pointer" flex="1">
           <Image src="/assets/logo.png" alt="NFT Host Logo" w="50px" />
           <Heading as="h1" fontWeight="bold" fontFamily="inter" fontSize="20pt">
-            NFT Host
+           Melo NFT Host
           </Heading>
         </HStack>
       </NextLink>
