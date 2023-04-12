@@ -298,7 +298,7 @@ export const utilsMenuArr = [
 
 export const partnersArr = [
   {
-    company: "Flair",
+    company: "Volt",
     image: "/assets/partners/flair.png",
     link: "https://flair.finance/",
     description: "Open-source Smart Contracts, React Components & REST APIs",
@@ -317,7 +317,7 @@ export const partnersArr = [
     description: "End-to-end tools to help creators build their NFT collection",
   },
   {
-    company: "Web3 Philippines",
+    company: "Shiba",
     image: "/assets/partners/web3philippines.png",
     link: "https://web3philippines.org/discord",
     description:
